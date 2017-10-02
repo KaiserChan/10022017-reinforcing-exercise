@@ -36,7 +36,8 @@ project = {
 
 function assignTasks(project) {
   var tasks = project['steps'];
-  var committees = project['committee']
+  // var committees = project['committee']
+
   // tasks.forEach(function(task) {
   //   committees.forEach(function(committee) {
   //     task['committee'] = committee;
